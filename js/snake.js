@@ -1,9 +1,3 @@
-/*
-Be4la
-First version by Patrick Gillespie - I've since merged in a good number of github pull requests
-http://Be4la.com/games/snake 
-*/
-
 /**
  * @module Snake
  * @class SNAKE
@@ -844,7 +838,7 @@ SNAKE.Board =
           fullScreenText = "On Windows, press F11 to play in Full Screen mode.";
         }
         welcomeTxt.innerHTML =
-          "Be4la<p></p>Use the <strong>arrow keys</strong> on your keyboard to play the game. " +
+          "SNAKO<p></p>Use the <strong>arrow keys</strong> on your keyboard to play the game. " +
           fullScreenText +
           "<p></p>";
         var welcomeStart = document.createElement("button");
