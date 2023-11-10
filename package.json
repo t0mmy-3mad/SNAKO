@@ -1,7 +1,7 @@
 {
   "name": "javascript-snake",
   "version": "1.0.0",
-  "description": "Be4la<br/> By Patrick Gillespie<br/> License: MIT<br/> http://Be4la.com/games/snake",
+  "description": "SNAKO<br/> By Patrick Gillespie<br/> License: MIT<br/> http://SNAKO.com/games/snake",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Be4la/JavaScript-Snake.git"
+    "url": "git+https://github.com/SNAKO/JavaScript-Snake.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Be4la/JavaScript-Snake/issues"
+    "url": "https://github.com/SNAKO/JavaScript-Snake/issues"
   },
-  "homepage": "https://github.com/Be4la/JavaScript-Snake#readme",
+  "homepage": "https://github.com/SNAKO/JavaScript-Snake#readme",
   "dependencies": {},
   "devDependencies": {
     "parcel-bundler": "^1.6.1"

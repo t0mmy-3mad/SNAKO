@@ -871,7 +871,7 @@ SNAKE.Board =
         tmpElm.className = elmClassName;
 
         var gameEndTxt = document.createElement("div");
-        gameEndTxt.innerHTML = "Be4la<p></p>" + message + "<p></p>";
+        gameEndTxt.innerHTML = "SNAKO<p></p>" + message + "<p></p>";
         var gameEndStart = document.createElement("button");
         gameEndStart.appendChild(document.createTextNode("Play Again?"));
 
